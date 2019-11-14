@@ -1,0 +1,1291 @@
+{
+    "venues": [
+        {
+            "clubname": "Adina Apartment Hotel",
+            "pic": "Adina.jpg",
+            "pic_lang": " blok_lang.jpg",
+            "clubinfo": "Dr. Kurt-Schumacher-Straße 1-7 ",
+            "latitudej": 49.449366,
+            "longitudej": 11.073493,
+
+            "bands": [
+                {
+                    "name": "NueJazz For Kids",
+                    "pic": "Gustavo-Strauss.jpg",
+                    "pic_lang": " juliusgale_lang.jpg",
+                    "venue": "Adina Apartment Hotel",
+                    "day": "Samstag",
+                    "time": "15 h",
+                    "kat": "Jazz",
+                    "from": "Deutschland",
+                    "info": "Gustavo Strauß tritt unter dem Motto 'Zirkus Jazzino II' auf. Der Auftritt ist Teil der Daytime Acoustic Shows bei Nürnberg Pop."
+                },
+                {
+                    "name": "Edi Nulz",
+                    "pic": "Edi-Nulz.jpg",
+                    "pic_lang": " chpln_lang.jpg",
+                    "venue": "Adina Apartment Hotel",
+                    "day": "Samstag",
+                    "time": "19.15 h",
+                    "kat": "Jazz, Indie, Rock’n’Roll",
+                    "from": "Deutschland, Österreich",
+                    "info": "Jazz und Rock, passt das zusammen? Und wie! Edi Nulz schaffen eine Gratwanderung zwischen Irrsinn und Präzision und sind bei Nürnberg.Pop 2019 mit dabei."
+                },
+                {
+                    "name": "Toytoy",
+                    "pic": "Toytoy.jpg",
+                    "pic_lang": " chpln_lang.jpg",
+                    "venue": "Adina Apartment Hotel",
+                    "day": "Samstag",
+                    "time": "21.15 h",
+                    "kat": "Jazz, Hip-Hop",
+                    "from": "Hamburg",
+                    "info": "Tourneen mit Chet Faker, Nils Landgren oder Maria Joao sind nur ein Teil der Referenzenliste der Hamburger Band, die mit ihrer [rejazzed] Version von 'Bambule' (Beginner) auf dem Hamburger Elbjazz einmal mehr begeisterte. Noch ein Geheimtipp, aber nicht mehr lange."
+                }
+            ]
+        },
+        {
+            "clubname": "Blutsgeschwister",
+            "pic": "Blutsgeschwister.jpg",
+            "pic_lang": " stereo_lang.jpg",
+            "clubinfo": "Luitpoldstraße 9",
+            "latitudej": 49.448076,
+            "longitudej": 11.079450,
+            "bands": [
+                {
+                    "name": "A.Vju",
+                    "pic": "A-Vju.jpg",
+                    "pic_lang": " troubleorchestra_lang.jpg",
+                    "venue": "Blutsgeschwister",
+                    "day": "Samstag",
+                    "time": "20 h",
+                    "kat": "Akustik-Pop",
+                    "from": "Cham",
+                    "info": "Hinter dem Namen A.VJU verbirgt sich Anna Lachhammer, eine junge Singer-/Songwriterin aus Cham. Sie komponiert melodischen Akustik-Pop gepaart mit elektronischen Elementen und einem Hauch Melancholie."
+                },
+                {
+                    "name": "Luke Noa",
+                    "pic": "Luke-Noa.jpg",
+                    "pic_lang": " iraatari_lang.jpg",
+                    "venue": "Blutsgeschwister",
+                    "day": "Samstag",
+                    "time": "22 h",
+                    "kat": "Folk, Soul, Pop",
+                    "from": "Deutschland",
+                    "info": "Luke Noa schreitet voran, ohne sich im gegenwärtigen Geschwindigkeitswahn zu verlieren. Als Kind der Neuzeit zeichnet er einen Weg fernab von musikalisch vorgemalten und allzu definierten Bildern. Vielmehr macht er sich den Stilpluralismus der Moderne zunutze, um Grenzen aufzuweichen, und kreiert im Songwriting eine Collage aus Pop, Soul, Hip-Hop und Folk."
+                }
+            ]
+        },
+        {
+            "clubname": "Brotzeit",
+            "pic": "Brotzeit.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Klaragasse 30",
+            "latitudej": 49.449029,
+            "longitudej": 11.077021,
+            "bands": [
+                {
+                    "name": "Ukulele Insanity",
+                    "pic": "Brotzeit.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Brotzeit",
+                    "day": "Samstag",
+                    "time": "22.30 h",
+                    "kat": "Ukulele, Orchestra",
+                    "from": "Nürnberg",
+                    "info": "Ukulele Insanity nimmt sich selbst nicht ganz so ernst und versteht sich als Liveband, die der Liebe zur Musik und dem Spaßfaktor mehr Stellenwert beimisst als der perfekten Performance."
+                }
+            ]
+        },
+        {
+            "clubname": "Bruderherz",
+            "pic": "Bruderherz.jpg",
+            "pic_lang": " craemer_lang.jpg",
+            "clubinfo": "Luitpoldstraße 15",
+            "latitudej": 49.448168,
+            "longitudej": 11.079336,
+            "bands": [
+                {
+                    "name": "Sascha Renier",
+                    "pic": "Sascha-Renier-new.jpg",
+                    "pic_lang": " codecanary_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Freitag",
+                    "time": "20 h",
+                    "kat": "Indie, Pop",
+                    "from": "Deutschland",
+                    "info": "Sascha Renier, so melodiös und wort-bild-gewandt, wie der französisch anmutende Name prophezeit. Mit Wurzeln in der fränkischen Provinz und seiner musikalischen Heimat Hamburg versteht sich der Künstler als gelungene Mischung mit Zeitgeistreflexion. In seiner musikalischen Laufbahn konnte er das Publikum im Vorprogramm etablierter Acts, wie Nena oder Revolverheld überzeugen."
+                },
+                {
+                    "name": "The Air We Breathe",
+                    "pic": "The-Air-We-Breathe.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Freitag",
+                    "time": "21.30 h",
+                    "kat": "Indie, Pop",
+                    "from": "Neumarkt",
+                    "info": "The Air We Breathe ist melancholischer Indie aus Neumarkt und Nürnberg, mit ihrem Debütalbum sind die vier Männer durchgestartet. 2019 sind sie bei Nürnberg.Pop dabei."
+                },
+                {
+                    "name": "Eskalation",
+                    "pic": "Eskalation.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Freitag",
+                    "time": "23 h",
+                    "kat": "Indie, Elektronik, Bläser",
+                    "from": "Nürnberg",
+                    "info": "Der Band-Name sagt eigentlich schon alles. Die achtköpfige Band aus Nürnberg bietet einen Mix aus Energie und Hirn, aus tanzbarer und nicht zu fassender Musik."
+                },
+                {
+                    "name": "The Average Pizza",
+                    "pic": "Average-Pizza.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "15.30 h",
+                    "kat": "schrammeliger Indie-Antifolk",
+                    "from": "Nürnberg",
+                    "info": "Average Pizza gibt es wie Sand am Meer. Weil jeder drauf steht. Alle wollen sie Average Pizza. Aber keiner ist so Average wie das Trio aus der Südstadt. Mit Abstand am Averagsten, könnte man sagen. Johnny Salami, Fabi Quattro Formaggi und Ian Pineapple liefern euch Slices über sterbende Tierchen, schwierige Lebensentscheidungen oder die große Kühlschrankhoffnung. Drinks included. Dreckiger Schrammel-Indie-Antifolk mit Cheesy Crust zwischen The Wave Pictures, Radiator Hospital und Velvet Underground."
+                },
+                {
+                    "name": "Goodbye Loona",
+                    "pic": "Goodbye-Loona.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "16.30 h",
+                    "kat": "Indie",
+                    "from": "Nürnberg",
+                    "info": "Bei Goodbye Loona wechseln sich zarte Stimmen und sanfte Klänge eines Klaviers mit klirrenden Becken und scheppernden Gitarren ab."
+                },
+                {
+                    "name": "We Brought A Penguin",
+                    "pic": "We-Brought-A-Penguin.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "17.30 h",
+                    "kat": "Indie-Pop",
+                    "from": "Nürnberg",
+                    "info": "Der Name ist Programm, oder? Einen Pinguin dürfen die jungen Musiker auf jeden Fall gerne mit nach Nürnberg bringen. 'Indie-Pop mit Surfattitüde', so beschreiben sie sich selbst."
+                },
+                {
+                    "name": "Jante",
+                    "pic": "Jante.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "19 h",
+                    "kat": "Indie, Folk",
+                    "from": "Leipzig",
+                    "info": " Jante erstellen eingängige Gitarrenriffs gepaart mit der Intensität tiefgehender deutscher Texte. Sie fangen die Sonne Mumford & Sons', die Ehrlichkeit Passengers und die Verträumtheit der Mighty Oaks ein und kredenzen aus diesen Zutaten ihre eigene Popversion."
+                },
+                {
+                    "name": "Goodbye Loona",
+                    "pic": "Goodbye-Loona.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "20 h",
+                    "kat": "Indie",
+                    "from": "Nürnberg",
+                    "info": "Bei Goodbye Loona wechseln sich zarte Stimmen und sanfte Klänge eines Klaviers mit klirrenden Becken und scheppernden Gitarren ab."
+                },
+                {
+                    "name": "Nikki mit dem Beat",
+                    "pic": "Nikki-mit-dem-Beat.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "21.15 h",
+                    "kat": "Pop",
+                    "from": "Deutschland",
+                    "info": "Nikki mit dem Beat machen Popmusik, irgendwie elektronisch, irgendwie rockig, immer ehrlich. Clubenergie auf Festivalbühnen. Bunte, kraftvolle Liveshows, hypnotisierende Laser, eingängige Melodien, deutsche Texte, echte Gefühle, authentisch in ihrer Einfachheit."
+                },
+                {
+                    "name": "Das Moped",
+                    "pic": "Das-Moped.jpg",
+                    "pic_lang": " occupanther_lang.jpg",
+                    "venue": "Bruderherz",
+                    "day": "Samstag",
+                    "time": "22.35 h",
+                    "kat": "Pop",
+                    "from": "Bad Kreuznach",
+                    "info": "Augustin Zimmer, Ali Baltz und Martin Brunner aus Bad Kreuznach bei Mainz bilden die Gruppe Das Moped. Die ehemalige Schülerband hat bei ihrem Auftritt in Nürnberg die Debüt-EP 'Alle wollen Liebe' dabei."
+                }
+            ]
+        },
+        {
+            "clubname": "Club Stereo",
+            "pic": "Club-Stereo.jpg",
+            "pic_lang": " goija_lang.jpg",
+            "clubinfo": "Klaragasse 8",
+            "latitudej": 49.448892,
+            "longitudej": 11.078645,
+            "bands": [
+                {
+                    "name": "Bloodhype",
+                    "pic": "Bloodhype.jpg",
+                    "pic_lang": " yucca_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Freitag",
+                    "time": "19.30 h",
+                    "kat": "Indie",
+                    "from": "Berlin",
+                    "info": "Bloodhype sind ein Indie-Kollektiv aus Berlin, bestehend aus Elmar Weyland, Erik Laser, Matt Mueller und Chris Kohl. Ihr Sound ist geprägt durch ihre Jugend in den 90ern: Videospiele, Steven-Spielberg-Filme, New Order, Talk Talk, Grunge und Steven-King-Romane sind in die DNA der Musiker übergegangen."
+                },
+                {
+                    "name": "Tiavo",
+                    "pic": "Tiavo.jpg",
+                    "pic_lang": " fatoni_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Freitag",
+                    "time": "21.30 h",
+                    "kat": "Rap-Crossover",
+                    "from": "Saarbrücken",
+                    "info": "Tiavo überzeugt mit einem Crossover aus Gitarrenriffs, Rap und Gesang. Auf dem Label von Genetikk releasten Tiavo 2018 ihr Debutalbum 'Oh Lucy'."
+                },
+                {
+                    "name": "Tristan Brusch",
+                    "pic": "Tristan-Brusch.jpg",
+                    "pic_lang": " fatoni_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Freitag",
+                    "time": "23.30 h",
+                    "kat": "Chanson-Pop",
+                    "from": "Berlin",
+                    "info": "Der Sohn eines Violinisten macht bereits seit seiner frühesten Jugend Musik und hat mit 'Das Paradies' ein formidables Debüt-Album releast. Tristan Brusch komponiert Chanson-Pop mit deutschen Texten."
+                },
+                {
+                    "name": "Go Go Berlin",
+                    "pic": "Go-Go-Berlin.jpg",
+                    "pic_lang": " fatoni_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Samstag",
+                    "time": "19.30 h",
+                    "kat": "Rock",
+                    "from": "Dänemark",
+                    "info": "Seit 2010 sorgen diese Dänen für Furore. Go Go Berlin wurde in Silkeborg gegründet und hat sich in diesem Jahr nach einer Kreativpause eindrucksvoll zurückgemeldet."
+                },
+                {
+                    "name": "Mia Morgan",
+                    "pic": "Mia-Morgan.jpg",
+                    "pic_lang": " fatoni_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Samstag",
+                    "time": "21.30 h",
+                    "kat": "Pop",
+                    "from": "Kassel",
+                    "info": " Die junge Künstlerin zaubert Wave- und Popklänge auf die Bühne und tourte schon gemeinsam mit Drangsal durch die Weltgeschichte."
+                },
+                {
+                    "name": "Neufundland",
+                    "pic": "Neufundland.jpg",
+                    "pic_lang": " fatoni_lang.jpg",
+                    "venue": "Club Stereo",
+                    "day": "Samstag",
+                    "time": "23.30 h",
+                    "kat": "Indie-Rock",
+                    "from": "Deutschland",
+                    "info": "Mit Neufundland präsentiert sich eine Band, die die Messlatte für zeitgenössische Sprache und Pop höher legt. Mondän, selbstbewusst und infektiös für die Ohren."
+                }
+            ]
+        },
+        {
+            "clubname": "Hotel Drei Raben",
+            "pic": "Drei-Raben.jpg",
+            "pic_lang": " hangover_lang.jpg",
+            "clubinfo": "Königstraße 63 ",
+            "latitudej": 49.448368,
+            "longitudej": 11.080057,
+            "bands": [
+                {
+                    "name": "Esther Graf",
+                    "pic": "Esther-Graf.jpg",
+                    "pic_lang": " imgebuesch_lang.jpg",
+                    "venue": "Drei Raben",
+                    "day": "Samstag",
+                    "time": "19.45 h",
+                    "kat": "Pop, R’n’B",
+                    "from": "Österreich",
+                    "info": "Moderner R'n'B, der freudig Hip-Hop- und Pop-Elemente in die Arme nimmt. So lässt sich Esther Grafs Musik wohl am besten beschreiben. Doch die junge Österreicherin, geboren im tiefsten Kärntner Hinterland, ist mit ihren 20 Jahren nicht nur Sängerin, sondern auch Model."
+                },
+                {
+                    "name": "Ragnar Ólafsson & Isabelle Saadat",
+                    "pic": "Ragnar-Olafsson.jpg",
+                    "pic_lang": " ratcliffs_lang.jpg",
+                    "venue": "Drei Raben",
+                    "day": "Samstag",
+                    "time": "21.45 h",
+                    "kat": "Pop, Rock",
+                    "from": "Island",
+                    "info": "Ob als Mitglied von Árstíðir, Sänger von Lightspeed Legend oder Jazz Pianist - Ragnar Ólafsson ist ein musikalisches Chamäleon. Zu Nürnberg.Pop kommt der Isländer mit seinem ersten Soloalbum 'Urges' und der Singer-Songwriterin Isabelle Saadat als kongeniale Bühnenpartnerin."
+                }
+            ]
+        },
+        {
+            "clubname": "Glasbau (Künstlerhaus) 1. OG",
+            "pic": "Kuenstlerhaus-Glasbau.jpg",
+            "pic_lang": " heyheybar_lang.jpg",
+            "clubinfo": "Königstraße 93 ",
+            "latitudej": 49.448059,
+            "longitudej": 11.081617,
+            "bands": [
+                {
+                    "name": "Lueam",
+                    "pic": "Lueam.jpg",
+                    "pic_lang": " dm7_lang.jpg",
+                    "venue": "Glasbau (Künstlerhaus) 1. OG",
+                    "day": "Samstag",
+                    "time": "20.45 h",
+                    "kat": "Neo Soul",
+                    "from": "Deutschland",
+                    "info": "Ein Hauch von Rio Reiser weht in der kratzigen, rohen Stimme von LUEAM. Dazu gesellen sich klare Einflüsse von Neo Soul und genrefreier Musik wie bei einem Frank Ocean. Die Gitarre als bestimmendes Instrument ist abgemeldet, wie in aktuellen amerikanischen Produktionen steht der Beat an erster Stelle."
+                },
+                {
+                    "name": "Maffai",
+                    "pic": "Maffai.jpg",
+                    "pic_lang": " blindspot_lang.jpg",
+                    "venue": "Glasbau (Künstlerhaus) 1. OG",
+                    "day": "Samstag",
+                    "time": "22.15 h",
+                    "kat": "Post Punk",
+                    "from": "Deutschland",
+                    "info": "Maffai bewegen sich irgendwo zwischen wütendem Indie und filigranem Post-Punk. Aus Melodie und rauer Oberfläche sticht hier insbesondere die Emocore-Sozialisierung der Bandmitglieder hervor. Spätestens live wird dies omnipräsent hörbar. Kein unnötiger Ballast. Kein Schnickschnack. Drei Minuten reichen, um gezielt auf den Punkt zu kommen."
+                }
+            ]
+        },
+        {
+            "clubname": "Harlem",
+            "pic": "Harlem.jpg",
+            "pic_lang": " ksechs_lang.jpg",
+            "clubinfo": "Luitpoldstraße 9 ",
+            "latitudej": 49.447992,
+            "longitudej": 11.079348,
+            "bands": [
+                {
+                    "name": "Let Them Jam",
+                    "pic": "Let-Them-Jam.jpg",
+                    "pic_lang": " bum_lang.jpg",
+                    "venue": "Harlem",
+                    "day": "Freitag",
+                    "time": "21 h",
+                    "kat": "Funk, Blues, R’n’B",
+                    "from": "Nürnberg",
+                    "info": "Die aus dem Großraum Nürnberg stammende Band liefert mit eigenen Kompositionen zwischen Funk, Blues, Soul, 70's die perfekte Grundlage zum Tanzen in ausgelassener Fröhlichkeit."
+                },
+                {
+                    "name": "The Rocketboys",
+                    "pic": "The-Rocketboys.jpg",
+                    "pic_lang": " naomisample_lang.jpg",
+                    "venue": "Harlem",
+                    "day": "Samstag",
+                    "time": "20.15 h",
+                    "kat": "Indie-Rock",
+                    "from": "USA",
+                    "info": " Seit fast einer Dekade sind The Rocketboys eine feste Größe der Musikszene von Austin, Texas. In dieser Zeit haben viele Filme, Fernsehshows und Werbespots ihre musikalische Energie genutzt und einer breiten Masse zugänglich gemacht. 2019 besucht die Indie-Rockband das Nürnberg.Pop Festival."
+                },
+                {
+                    "name": "Hanna Sikasa",
+                    "pic": "Hanna-Sikasa.jpg",
+                    "pic_lang": " naomisample_lang.jpg",
+                    "venue": "Harlem",
+                    "day": "Samstag",
+                    "time": "22.15 h",
+                    "kat": "Singer/Songwriter",
+                    "from": "Nürnberg",
+                    "info": "Balsam für die Seele: Hanna Sikasa verzaubert mit gefühlvollen Klängen und einer wunderbaren, reinen Stimme. Das sollten Sie sich nicht entgehen lassen."
+                }
+            ]
+        },
+        {
+            "clubname": "Heilig-Geist-Saal",
+            "pic": "Heilig-Geist-Saal.jpg",
+            "pic_lang": " kuenstlerhaus_lang.jpg",
+            "clubinfo": "Spitalgasse 16 ",
+            "latitudej": 49.453141,
+            "longitudej": 11.079101,
+            "bands": [
+                {
+                    "name": "The Strumbellas",
+                    "pic": "The-Strumbellas.jpg",
+                    "pic_lang": " mausi_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Freitag",
+                    "time": "19 h",
+                    "kat": "Folk-Rock",
+                    "from": "Kanada",
+                    "info": " The Strumbellas sind eine sechsköpfige kanadische Folk-Rockband. Ihr größter Hit hat mittlerweile 57 Millionen Aufrufe auf YouTube. Mit ihrem jüngst erschienenen Album 'Rattelsnake' bespielt das Sextett Nürnberg.Pop 2019."
+                },
+                {
+                    "name": "Blackout Problems",
+                    "pic": "Blackout-Problems.jpg",
+                    "pic_lang": " birthofjoy_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Freitag",
+                    "time": "21 h",
+                    "kat": "Alternative-Rock",
+                    "from": "München",
+                    "info": "Aus München nach Nürnberg. Zumindest im Oktober. Die Alternative-Rock-Band Blackout Problems ist beim Nürnberg.Pop-Festival dabei."
+                },
+                {
+                    "name": "Roosevelt",
+                    "pic": "Roosevelt.jpg",
+                    "pic_lang": " rangleklods_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Freitag",
+                    "time": "23 h",
+                    "kat": "Synth-Pop",
+                    "from": "Deutschland",
+                    "info": "Ein wahrer Senkrechtstarter ist der in Viersen geborene 'Roosevelt'. 2018 war er für die 1Live-Krone nominiert, tourte schon durch Europa und Nordamerika. Jetzt kommt Roosevelt zum Nürnberg.Pop-Festival."
+                },
+                {
+                    "name": "Amilli",
+                    "pic": "Amilli.jpg",
+                    "pic_lang": " rangleklods_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Samstag",
+                    "time": "19 h",
+                    "kat": "Soul",
+                    "from": "Deutschland",
+                    "info": "Mitten aus dem Herzen des Ruhrgebiets kommt die gerade erst 18 Jahre alte Sängerin Amilli. Mit einer gewaltigen Portion Soul in der Stimme und Gefühl für einzigartige Melodien bewegt sie sich stilsicher über warme Beats, die in ruhigen Momenten an Jorja Smith oder Solange erinnern, doch ab und an auch zum Turn Up einladen."
+                },
+                {
+                    "name": "Lola Marsh",
+                    "pic": "Lola-Marsh.jpg",
+                    "pic_lang": " rangleklods_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Samstag",
+                    "time": "21 h",
+                    "kat": "Indie-Pop",
+                    "from": "Israel",
+                    "info": "Die Indie-Folk-Band aus Israel ist ein wahrer Hingucker. Mit Lola Marsh präsentiert Nürnberg.Pop einen echten Top-Act in diesem Jahr."
+                },
+                {
+                    "name": "Drangsal",
+                    "pic": "Drangsal-new.jpg",
+                    "pic_lang": " rangleklods_lang.jpg",
+                    "venue": "Heilig-Geist-Saal",
+                    "day": "Samstag",
+                    "time": "23 h",
+                    "kat": "Pop",
+                    "from": "Deutschland",
+                    "info": "Max Gruber aka Drangsal ist Autodidakt, Außenseiter, Musikbesessener. Seine Musik ist ein Amalgam aus den Erfahrungen, die Gruber als Freak in der konservativen pfälzer Provinz machte, und all der Musik, die er während seiner Existenz aufgesogen hat."
+                }
+            ]
+        },
+        {
+            "clubname": "Hey Hey Bar",
+            "pic": "Hey-Hey-Bar.jpg",
+            "pic_lang": " kuenstlerhaushinterzimmer_lang.jpg",
+            "clubinfo": "Klaragasse 24",
+            "latitudej": 49.448827,
+            "longitudej": 11.077356,
+            "bands": [
+                {
+                    "name": "The Average Pizza",
+                    "pic": "Average-Pizza.jpg",
+                    "pic_lang": " hellopiedpiper_lang.jpg",
+                    "venue": "Hey Hey Bar",
+                    "day": "Samstag",
+                    "time": "20.15 h",
+                    "kat": "schrammeliger Indie-Antifolk",
+                    "from": "Nürnberg",
+                    "info": "Average Pizza gibt es wie Sand am Meer. Weil jeder drauf steht. Alle wollen sie Average Pizza. Aber keiner ist so Average wie das Trio aus der Südstadt. Mit Abstand am Averagsten, könnte man sagen. Johnny Salami, Fabi Quattro Formaggi und Ian Pineapple liefern euch Slices über sterbende Tierchen, schwierige Lebensentscheidungen oder die große Kühlschrankhoffnung. Drinks included. Dreckiger Schrammel-Indie-Antifolk mit Cheesy Crust zwischen The Wave Pictures, Radiator Hospital und Velvet Underground."
+                },
+                {
+                    "name": "The Average Pizza",
+                    "pic": "Average-Pizza.jpg",
+                    "pic_lang": " helmut_lang.jpg",
+                    "venue": "Hey Hey Bar",
+                    "day": "Samstag",
+                    "time": "21.30 h",
+                    "kat": "schrammeliger Indie-Antifolk",
+                    "from": "Nürnberg",
+                    "info": "Average Pizza gibt es wie Sand am Meer. Weil jeder drauf steht. Alle wollen sie Average Pizza. Aber keiner ist so Average wie das Trio aus der Südstadt. Mit Abstand am Averagsten, könnte man sagen. Johnny Salami, Fabi Quattro Formaggi und Ian Pineapple liefern euch Slices über sterbende Tierchen, schwierige Lebensentscheidungen oder die große Kühlschrankhoffnung. Drinks included. Dreckiger Schrammel-Indie-Antifolk mit Cheesy Crust zwischen The Wave Pictures, Radiator Hospital und Velvet Underground."
+                }
+            ]
+        },
+        {
+            "clubname": "Hinz X Kunz",
+            "pic": "Hinz-X-Kunz.jpg",
+            "pic_lang": " kulturkellerei_lang.jpg",
+            "clubinfo": "Marientorgraben 13 ",
+            "latitudej": 49.450220,
+            "longitudej": 11.083824,
+            "bands": [
+                {
+                    "name": "Koala Kaladevi",
+                    "pic": "Koala-Kaladevi.jpg",
+                    "pic_lang": " zico_lang.jpg",
+                    "venue": "Hinz X Kunz",
+                    "day": "Freitag",
+                    "time": "20 h",
+                    "kat": "Hip-Hop",
+                    "from": "Deutschland",
+                    "info": "Für gewöhnlich projizieren Hip Hop und R&B ein eher digitales Klangbild in unsere Köpfe. Dass gute Beats aber nicht nur mit programmierten Drumspuren und MIDI-Instrumenten funktionieren, zeigt die Nürnberger Band 'Koala Kaladevi' mit authentischem Live-Sound und packenden Hip-Hop Beats."
+                },
+                {
+                    "name": "Lui Hill",
+                    "pic": "Lui-Hill.jpg",
+                    "pic_lang": " ataleofgoldenkeys_lang.jpg",
+                    "venue": "Hinz X Kunz",
+                    "day": "Freitag",
+                    "time": "22 h",
+                    "kat": "Soul, Indie",
+                    "from": "Deutschland",
+                    "info": "Der studierte Jazz-Schlagzeuger hat mit seiner Single '5000 Miles' einen Dauerbrenner irgendwo im Dunstkreis zwischen (Neo)Soul und Indie gelandet und meldet sich nach seiner ersten Europatour mit 'I Owe You' zurück."
+                },
+                {
+                    "name": "Jinka",
+                    "pic": "Jinka.jpg",
+                    "pic_lang": " langtunes_lang.jpg",
+                    "venue": "Hinz X Kunz",
+                    "day": "Samstag",
+                    "time": "19 h",
+                    "kat": "Experimental Pop",
+                    "from": "Deutschland",
+                    "info": "Bevor die Wahlberlinerin aus Transsilvanien ihre Solokarriere startete, stand sie schon als Keyboarderin von Thees Uhlmann und Sara Hartmann auf der Bühne. Mit ihrem Solo-Debüt stellt sie eindrucksvoll ihre Qualitäten als Songwriterin, Produzentin und Sängerin unter Beweis."
+                },
+                {
+                    "name": "Bruckner",
+                    "pic": "Bruckner.jpg",
+                    "pic_lang": " langtunes_lang.jpg",
+                    "venue": "Hinz X Kunz",
+                    "day": "Samstag",
+                    "time": "20.30 h",
+                    "kat": "Songwriter",
+                    "from": "Regensburg",
+                    "info": "Die musizierenden Brüder Bruckner verlegen in ihrer neuen Single 'Ein Jahr' den Afrobeat von Paul Simon oder Vampire Weekend ins östliche Bayern und auch der aufgekratzte Nachleger 'Tischtennistage' ist Highlife in Regensburg."
+                },
+                {
+                    "name": "Xavi",
+                    "pic": "Xavi-new.jpg",
+                    "pic_lang": " langtunes_lang.jpg",
+                    "venue": "Hinz X Kunz",
+                    "day": "Samstag",
+                    "time": "22.30 h",
+                    "kat": "Songwriter",
+                    "from": "Deutschland",
+                    "info": "Der 27-jährige Singer-Songwriter singt und komponiert so smart Lieder über die Irrungen und Wirrungen der Liebe und des Lebens, als besäße er den Universalschlüssel zu unseren Gedanken."
+                }
+            ]
+        },
+        {
+            "clubname": "Kantine",
+            "pic": "Kantine.jpg",
+            "pic_lang": " goija_lang.jpg",
+            "clubinfo": "Königstormauer",
+            "latitudej": 49.448614,
+            "longitudej": 11.081856,
+            "bands": [
+                {
+                    "name": "Apaath",
+                    "pic": "Apaath.jpg",
+                    "pic_lang": " meandreas_lang.jpg",
+                    "venue": "Kantine",
+                    "day": "Freitag",
+                    "time": "19.30 h",
+                    "kat": "Post-Hardcore",
+                    "from": "Rügland",
+                    "info": "Apaath, einmal als 'Kraftklub in Post-Hardcore' bezeichnet, sind vier junge Typen aus Rügland, die seit Juni 2016 zusammen Musik machen. Festivalbesucher dürfen sich auf kraftvolle Gitarren kombiniert mit energiegeladenen deutschen Texten freuen."
+                },
+                {
+                    "name": "Akne Kid Joe",
+                    "pic": "Akne-Kid-Joe.jpg",
+                    "pic_lang": " thegohohobos_lang.jpg",
+                    "venue": "Kantine",
+                    "day": "Freitag",
+                    "time": "21.30 h",
+                    "kat": "Punk",
+                    "from": "Nürnberg",
+                    "info": "Wir sind der picklige kleine Scheißer aus der ersten Reihe und sind allergisch auf voll viel, vor allem auf 'Summer of 69' von Bryan Adams. - So beschreiben sich die Punks aus Nürnberg selbst. Mit ihrem Album 'Karate Kid Joe' hat das Quartett 2018, knapp 1,5 Jahre nach der 'haste nich gesehn!''-EP sein Debut-Album abgeliefert."
+                },
+                {
+                    "name": "Schlakks & Opek & Razzmatazz",
+                    "pic": "Schlakks.jpg",
+                    "pic_lang": " thegohohobos_lang.jpg",
+                    "venue": "Kantine",
+                    "day": "Freitag",
+                    "time": "23.00 h",
+                    "kat": "Rap",
+                    "from": "Dortmund",
+                    "info": "Live-MC Schlakks reist aus Dortmund an. Im Gepäck hat er ein bisschen Funk und sein 2018 erschienenes Album 'Indirekte Beleuchtung', produziert von OPEK und Razzmatazz. Deutschrap ohne Männlichkeitswahn und ohne Grenzen."
+                }
+            ]
+        },
+        {
+            "clubname": "Kater Murr",
+            "pic": "Kater-Murr.jpg",
+            "pic_lang": " zentralcafe_lang.jpg",
+            "clubinfo": "Johannesgasse 14 ",
+            "latitudej": 49.449589,
+            "longitudej": 11.080691,
+            "bands": [
+                {
+                    "name": "Avy Quest",
+                    "pic": "Avy-Quest-new.jpg",
+                    "pic_lang": " nofun_lang.jpg",
+                    "venue": "Kater Murr",
+                    "day": "Samstag",
+                    "time": "19 h",
+                    "kat": "Songwriter",
+                    "from": "Deutschland",
+                    "info": "Seine Stimme versucht uns zu treffen, tief in unserem menschlichen Kern und seine Worte hinterfragen unsere Existenz mit einer grundlegend philosophischen Haltung.Die komplexe Tiefe seiner Musik steht einer technischen Simplizität gegenüber und seine Melodien offenbaren uns einen verborgenen Ort. Der Singer/Songwriter Avy Quest nimmt uns mit auf die Reisediesem Ort etwas näher zu kommen."
+                },
+                {
+                    "name": "Elena Steri",
+                    "pic": "Elena-Steri.jpg",
+                    "pic_lang": " bbou_lang.jpg",
+                    "venue": "Kater Murr",
+                    "day": "Samstag",
+                    "time": "20.15 h",
+                    "kat": "Songwriter",
+                    "from": "Nürnberg",
+                    "info": "Gefühlvoller 'Rooftop lo-fi' fernab vom Alltag, verfasst über den Dächern in Nürnberg-Gostenhof. Mehr Heimatgefühl geht eigentlich gar nicht."
+                },
+                {
+                    "name": "James Mackenzie",
+                    "pic": "James-Mackenzie.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Kater Murr",
+                    "day": "Samstag",
+                    "time": "21.45 h",
+                    "kat": "Songwriter",
+                    "from": "Schottland/Deutschland",
+                    "info": "Es heißt, dass Reisen den geistigen Horizont erweitert. James Mackenzie’s Weg aus den schottischen Highlands ins fränkische Nürnberg hat auch den musikalischen Horizont des Singer-/Songwriters erweitert, dessen Musik Herz und Seele offen legt."
+                },
+                {
+                    "name": "We Brought A Penguin",
+                    "pic": "We-Brought-A-Penguin.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Kater Murr",
+                    "day": "Samstag",
+                    "time": "23 h",
+                    "kat": "Indie-Pop",
+                    "from": "Nürnberg",
+                    "info": "Der Name ist Programm, oder? Einen Pinguin dürfen die jungen Musiker auf jeden Fall gerne mit nach Nürnberg bringen. 'Indie-Pop mit Surfattitüde', so beschreiben sie sich selbst."
+                }
+            ]
+        },
+        {
+            "clubname": "Katharinensaal",
+            "pic": "Katharinensaal.jpg",
+            "pic_lang": " zentralcafe_lang.jpg",
+            "clubinfo": "Am Katharinenkloster ",
+            "latitudej": 49.451829,
+            "longitudej": 11.081585,
+            "bands": [
+                {
+                    "name": "Lorens",
+                    "pic": "Lorens-new.jpg",
+                    "pic_lang": " nofun_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Freitag",
+                    "time": "20 h",
+                    "kat": "R’n’B, Bass",
+                    "from": "Serbien",
+                    "info": "Mit Lorens tritt zum ersten Mal eine Künstlerin aus Serbien bei Nürnberg Pop auf. Lorens entstammt der Kreativszene Belgrads. Sie verbindet Bass Music mit melancholischen R´n´B Elementen und jugoslawischer Folklore."
+                },
+                {
+                    "name": "Madanii & L:Lucid",
+                    "pic": "Madanii.jpg",
+                    "pic_lang": " bbou_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Freitag",
+                    "time": "21.45 h",
+                    "kat": "Pop, R’n’B",
+                    "from": "Deutschland",
+                    "info": "Irgendwo zwischen Orient und Okzident fordern sie musikalische Stereotype heraus und konfrontieren ihr Publikum mit einer einzigartigen Kombination aus Pop, RnB, elektronischer Musik und Elementen von Sängerin Zarrins iranischer Herkunft."
+                },
+                {
+                    "name": "Sultans Court",
+                    "pic": "Sultans-Court.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Freitag",
+                    "time": "23.45 h",
+                    "kat": "Electro, Disco, R’n’B",
+                    "from": "Deutschland",
+                    "info": "Die Musik der Berliner Band Sultans Court schmeißt man oft in einen Topf mit Gruppen wie Alt-J, Chet Faker und Glass Animals. Im Frühjahr haben die Hauptstädter ihre Debüt-EP releast."
+                },
+                {
+                    "name": "LionLion",
+                    "pic": "Lion-Lion.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Samstag",
+                    "time": "19.15 h",
+                    "kat": "Indie-Rock",
+                    "from": "Deutschland",
+                    "info": "LIONLION ist eine Indie-Rockband um die beiden eineiigen Zwillingsbrüder Michael und Matthias Rückert. 2018 haben die Brüder unter eigenem Label ihr Debütalbum 'The Atlas Idea' veröffentlicht und dieses Jahr im Herbst soll das zweite Album folgen."
+                },
+                {
+                    "name": "Die Nowak",
+                    "pic": "Die-Nowak.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Samstag",
+                    "time": "20.35 h",
+                    "kat": "Chanson, Pop",
+                    "from": "Deutschland",
+                    "info": "Die Nowak überzeugt mit einer zerbrechlichen und zugleich durchdringend kraftvollen Stimme. Kombiniert mit filigranem Klavierspiel generiert die junge Frau einen zeitlosen Sound, der aus dem Line-Up des Festivals heraussticht."
+                },
+                {
+                    "name": "Mola",
+                    "pic": "Mola.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Samstag",
+                    "time": "21.50 h",
+                    "kat": "80s, Trap, Pop",
+                    "from": "Deutschland",
+                    "info": "Eine rauchige Stimme gepaart mit 808 Drums, Trap-Hihats, sphärischen Gitarren, Synthesizer und Dancehall-Elementen: Mit diesen Elementen kreiert die Münchner Sängerin Mola einen ganz besonderen Sound."
+                },
+                {
+                    "name": "John Garner",
+                    "pic": "John-Garner.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Samstag",
+                    "time": "23.05 h",
+                    "kat": "Folk, Rock, Pop",
+                    "from": "Deutschland",
+                    "info": "Aus Augsburg reisen John Garner aufs Nürnberg.Pop Festival. Dreistimmiger Gesang kombiniert mit zwei Gitarren und einer Mandoline, gewannen die Folk-Newcomer zuletzt sogar die ProSieben-Show 'My Hit. Your Song'."
+                },
+                {
+                    "name": "Matija",
+                    "pic": "Matjia.jpg",
+                    "pic_lang": " fatcat_lang.jpg",
+                    "venue": "Katharinensaal",
+                    "day": "Samstag",
+                    "time": "00.25 h",
+                    "kat": "Indie, Pop",
+                    "from": "Deutschland",
+                    "info": "Die Alternative-Pop-Band Matija aus München verknüpfen Elemente aus verschiedenen Genres mit einem charmanten Schulterblick Richtung 80iger-Jahre. Als Support teilten sie bereits die Bühne mit etablierten Acts wie Wanda und The 1975."
+                }
+            ]
+        },
+
+        {
+            "clubname": "Klarakirche",
+            "pic": "Klarakirche.jpg",
+            "pic_lang": " klarakirche_lang.jpg",
+            "clubinfo": "Königstraße 66",
+            "latitudej": 49.448591,
+            "longitudej": 11.079798,
+            "bands": [
+                {
+                    "name": "Sunday Morning Orchestra",
+                    "pic": "Sunday-Morning-Orchestra.jpg",
+                    "pic_lang": " adna_lang.jpg",
+                    "venue": "Klarakirche",
+                    "day": "Samstag",
+                    "time": "20.15 h",
+                    "kat": "Lo-Fi-Jazz",
+                    "from": "Fürth",
+                    "info": "Das Lo-Fi Jazz spielende Zweimenschorchester aus Fürth kommt ebenfalls zu Nürnberg.Pop 2019. Das dürfte sehr unterhaltsam werden."
+                },
+                {
+                    "name": "Sion Hill",
+                    "pic": "Sion-Hill.jpg",
+                    "pic_lang": " davidlemaitre_lang.jpg",
+                    "venue": "Klarakirche",
+                    "day": "Samstag",
+                    "time": "21.45 h",
+                    "kat": "Indie, Soul",
+                    "from": "Irland",
+                    "info": "Sion Hill heißt eigentlich Nathan Johnston. Erst spielt der junge Ire in Pubs, dann zieht es den Songwriter nach Berlin. Dort wird er Straßenmusiker und schließlich entdeckt."
+                },
+                {
+                    "name": "Svavar Knùtur & Band",
+                    "pic": "Svavar-Knutur.jpg",
+                    "pic_lang": " davidlemaitre_lang.jpg",
+                    "venue": "Klarakirche",
+                    "day": "Samstag",
+                    "time": "23.30 h",
+                    "kat": "Songwriter",
+                    "from": "Island",
+                    "info": "Der isländische Singer/Songwriter und Entertainer kehrt für seine 'The second bell'- Tour mit neuen und alten Songs, seltsamen Geschichten und einer ungewöhnlichen neuen Philosophie zurück. Svavar Knútur ist ein Künstler mit zahlreichen Facetten, der große Liebe für sein Publikum mitbringt und es schafft, die Zuhörer vom ersten Moment an mitzureißen."
+                }
+            ]
+        },
+        {
+            "clubname": "Korns",
+            "pic": "Korns.jpg",
+            "pic_lang": " mach_lang.jpg",
+            "clubinfo": "Kornmarkt 5-7",
+            "latitudej": 49.448863,
+            "longitudej": 11.074931,
+            "bands": [
+                {
+                    "name": "Malik Harris",
+                    "pic": "Malik-Harris.jpg",
+                    "pic_lang": " 52er_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Freitag",
+                    "time": "19.45 h",
+                    "kat": "Pop, Rap",
+                    "from": "Deutschland",
+                    "info": "Der erst 21 Jahre junge Malik Harris verzwirbelt in seinen Songs organischen Pop und elektronische Einflüsse mit einer Mischung aus Rap und Gesang."
+                },
+                {
+                    "name": "Enno Bunger",
+                    "pic": "Enno-Bunger.jpg",
+                    "pic_lang": " gerard_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Freitag",
+                    "time": "21.45 h",
+                    "kat": "Indie-Pop",
+                    "from": "Deutschland",
+                    "info": " Melancholische Popmusik mit tiefgründigen, poetischen Texten. Das ist der Rahmen, der die Werke des Hamburger Singer/Songwriters Enno Bunger vereint. Dabei überrascht er mit musikalischer Vielseitigkeit und vermischt verschiedene Genres. Bunger verbindet Indie, Folk und Klavierballaden mit Electro und Rap."
+                },
+                {
+                    "name": "Cari Cari",
+                    "pic": "Cari-Cari.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Freitag",
+                    "time": "23.45 h",
+                    "kat": "Indie-Rock, Indie-Pop",
+                    "from": "Österreich",
+                    "info": "Der Rolling Stone bezeichnet Cari Cari als die wichtigste Live-Entdeckung des diesjährigen Primavera Sound Festivals in Barcelona. Mit Auftritten auf renommierten Festivals von Australien bis Portugal beweisen die beiden, dass sie zurecht auf Platz 6 der meistgebuchten Newcomer Europas stehen."
+                },
+                {
+                    "name": "The Rocketboys",
+                    "pic": "The-Rocketboys.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns Acoustic Stage",
+                    "day": "Samstag",
+                    "time": "15.45 h",
+                    "kat": "Indie-Rock",
+                    "from": "Austin/USA",
+                    "info": "Seit fast einer Dekade sind The Rocketboys eine feste Größe der Musikszene von Austin, Texas. In dieser Zeit haben viele Filme, Fernsehshows und Werbespots ihre musikalische Energie genutzt und einer breiten Masse zugänglich gemacht. 2019 besucht die Indie-Rockband das Nürnberg Pop Festival."
+                },
+                {
+                    "name": "John Garner",
+                    "pic": "John-Garner.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns Acoustic Stage",
+                    "day": "Samstag",
+                    "time": "16.45 h",
+                    "kat": "Folk, Rock, Pop",
+                    "from": "Augsburg",
+                    "info": "Aus Augsburg reisen John Garner aufs Nürnberg.Pop Festival. Dreistimmiger Gesang kombiniert mit zwei Gitarren und einer Mandoline, gewannen die Folk-Newcomer zuletzt sogar die ProSieben-Show 'My Hit. Your Song'."
+                },
+                {
+                    "name": "Luke Noa",
+                    "pic": "Luke-Noa.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns Acoustic Stage",
+                    "day": "Samstag",
+                    "time": "17.45 h",
+                    "kat": "Folk, Soul, Pop",
+                    "from": "Deutschland",
+                    "info": "Luke Noa schreitet voran, ohne sich im gegenwärtigen Geschwindigkeitswahn zu verlieren. Als Kind der Neuzeit zeichnet er einen Weg fernab von musikalisch vorgemalten und allzu definierten Bildern. Vielmehr macht er sich den Stilpluralismus der Moderne zunutze, um Grenzen aufzuweichen, und kreiert im Songwriting eine Collage aus Pop, Soul, Hip-Hop und Folk."
+                },
+                {
+                    "name": "Alli Neumann",
+                    "pic": "Alli-Neumann.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Samstag",
+                    "time": "19.30 h",
+                    "kat": "Pop",
+                    "from": "Flensburg",
+                    "info": "Die Schauspielerin und Sängerin Alli Neumann kommt im Oktober ebenfalls nach Nürnberg. Die Musikerin ging bereits mit Annenmaykantereit auf Tour und bringt damit große Bühnenerfahrung mit."
+                },
+                {
+                    "name": "Me & Reas",
+                    "pic": "Me-and-Reas.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Samstag",
+                    "time": "21.30 h",
+                    "kat": "Indie",
+                    "from": "Nürnberg",
+                    "info": "Wenn diese Band ein Konzert gibt, geht garantiert jeder sowohl melodiebesoffen als auch melancholietrunken nach Hause. Ist so! Me & Reas stammen aus der Region. Daher genießen sie bei Nürnberg Pop eine Art Heimvorteil."
+                },
+                {
+                    "name": "Döll",
+                    "pic": "Doell.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Korns",
+                    "day": "Samstag",
+                    "time": "23.30 h",
+                    "kat": "Rap",
+                    "from": "Deutschland",
+                    "info": "Vier Jahre nach der 'Weit entfernt' -EP und gut eineinhalb Jahre nach 'Ich und mein Bruder' war es im Januar dieses Jahres soweit: Döll veröffentlichte sein erstes Soloalbum 'Nie oder jetzt' und wurde dafür vom Juice-Magazin geadelt. 'Deutschrap hat dieses Album bitter nötig', schrieb das Rap-Blatt über das Debütalbum."
+                }
+            ]
+        },
+        {
+            "clubname": "Mitte Soundbar",
+            "pic": "Mitte-Soundbar.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Hallplatz 27",
+            "latitudej": 49.448807,
+            "longitudej": 11.077475,
+            "bands": [
+                {
+                    "name": "Apanorama",
+                    "pic": "Apanorama.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Mitte Soundbar",
+                    "day": "Freitag",
+                    "time": "00 h",
+                    "kat": "Elektro, Pop",
+                    "from": "Nürnberg",
+                    "info": "Apanorama ist ein elektronisches Duo aus Nürnberg. Nora schreibt die Songs am Klavier, Michael setzt diese dann im Studio elektronisch um. Noras experimentelle, mehrstimmige Gesangsparts, treibende Beats und sphärische Synth-Harmonien erzeugen bei ihren Live-Sets eine intime und dabei tanzbare Atmosphäre."
+                },
+                {
+                    "name": "Lasarew",
+                    "pic": "Lasarew.jpg",
+                    "pic_lang": " carrousel_lang.jpg",
+                    "venue": "Mitte Soundbar",
+                    "day": "Freitag",
+                    "time": "01 h",
+                    "kat": "House, Techno",
+                    "from": "Nürnberg",
+                    "info": "Der in Nürnberg ansässige Musikproduzent und Musiker performt seit 2013 elektronische Musik live. Künstler, die Lasarew inspirieren: Ricardo Villalobos, Mr. G., Richard Devine, Aphex Twin, Radiohead, Jeff Mills, Max Loderbauer."
+                },
+                {
+                    "name": "NBG Hip Hop Jam",
+                    "pic": "Mitte-Soundbar.jpg",
+                    "pic_lang": " carrousel_lang.jpg",
+                    "venue": "Mitte Soundbar",
+                    "day": "Samstag",
+                    "time": "20 h",
+                    "kat": "Hip-Hop",
+                    "from": "Nürnberg",
+                    "info": "Hip Hop Jam."
+                }
+            ]
+        },
+        {
+            "clubname": "Mono Bar",
+            "pic": "Mono-Bar.jpg",
+            "pic_lang": " mono_lang.jpg",
+            "clubinfo": "Grasersgasse 1",
+            "latitudej": 49.448652,
+            "longitudej": 11.077453,
+            "bands": [
+                {
+                    "name": "Monokini",
+                    "pic": "Monokini.jpg",
+                    "pic_lang": " birdberlin_lang.jpg",
+                    "venue": "Mono Bar",
+                    "day": "Samstag",
+                    "time": "20 h",
+                    "kat": "Surf",
+                    "from": "Deutschland",
+                    "info": "Uptime-Surfsound in Cinemascope, mit pastellbunten Gitarren und trashiger Transistor-Orgel, garniert mit einer Ladung Twang und Reverb: Monokini lässt tanzen, Monokini macht glücklich."
+                },
+                {
+                    "name": "Monokini",
+                    "pic": "Monokini.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Mono Bar",
+                    "day": "Samstag",
+                    "time": "21.15 h",
+                    "kat": "Surf",
+                    "from": "Deutschland",
+                    "info": "Uptime-Surfsound in Cinemascope, mit pastellbunten Gitarren und trashiger Transistor-Orgel, garniert mit einer Ladung Twang und Reverb: Monokini lässt tanzen, Monokini macht glücklich."
+                }
+            ]
+        },
+        {
+            "clubname": "mono-Ton",
+            "pic": "Monoton.jpg",
+            "pic_lang": " neues_lang.jpg",
+            "clubinfo": "Färberstraße 44",
+            "latitudej": 49.448271,
+            "longitudej": 11.071864,
+            "bands": [
+                {
+                    "name": "LionLion",
+                    "pic": "Lion-Lion.jpg",
+                    "pic_lang": " nickandjune_lang.jpg",
+                    "venue": "mono-Ton",
+                    "day": "Samstag",
+                    "time": "15 h",
+                    "kat": "Indie-Rock",
+                    "from": "Deutschland",
+                    "info": "LIONLION ist eine Indie-Rockband um die beiden eineiigen Zwillingsbrüder Michael und Matthias Rückert. 2018 haben die Brüder unter eigenem Label ihr Debütalbum 'The Atlas Idea' veröffentlicht und dieses Jahr im Herbst soll das zweite Album folgen."
+                },
+                {
+                    "name": "Bruckner",
+                    "pic": "Bruckner.jpg",
+                    "pic_lang": " lenadobler_lang.jpg",
+                    "venue": "mono-Ton",
+                    "day": "Samstag",
+                    "time": "16 h",
+                    "kat": "Songwriter",
+                    "from": "Regensburg",
+                    "info": "Die musizierenden Brüder Bruckner verlegen in ihrer neuen Single 'Ein Jahr' den Afrobeat von Paul Simon oder Vampire Weekend ins östliche Bayern und auch der aufgekratzte Nachleger 'Tischtennistage' ist Highlife in Regensburg."
+                },
+                {
+                    "name": "Svavar Knútur",
+                    "pic": "Svavar-Knutur.jpg",
+                    "pic_lang": " florianostertag_lang.jpg",
+                    "venue": "mono-Ton",
+                    "day": "Samstag",
+                    "time": "17 h",
+                    "kat": "Songwriter",
+                    "from": "Island",
+                    "info": "Der isländische Singer/Songwriter und Entertainer kehrt für seine 'The second bell'- Tour mit neuen und alten Songs, seltsamen Geschichten und einer ungewöhnlichen neuen Philosophie zurück. Svavar Knútur ist ein Künstler mit zahlreichen Facetten, der große Liebe für sein Publikum mitbringt und es schafft, die Zuhörer vom ersten Moment an mitzureißen."
+                }
+            ]
+        },
+        {
+            "clubname": "Neues Museum Auditorium",
+            "pic": "Neues-Museum.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Klarissenplatz",
+            "latitudej": 49.447844,
+            "longitudej": 11.080069,
+            "bands": [
+                {
+                    "name": "Pauls Jets",
+                    "pic": "Pauls-Jets.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Freitag",
+                    "time": "19.15 h",
+                    "kat": "Indie",
+                    "from": "Wien",
+                    "info": "Pauls Jets gilt als die neueste Indie-Sensation aus Wien. Mit der Debütsingle ''üben, üben, üben' beweist der 20-Jährige Songwriter Paul Buschnegg, dass er bereits in seinem zarten Alter dazu imstande ist, echte Pop-Meisterwerke zu kreieren."
+                },
+                {
+                    "name": "Schubsen",
+                    "pic": "Schubsen.jpg",
+                    "pic_lang": " end_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Freitag",
+                    "time": "21.15 h",
+                    "kat": "Post Punk",
+                    "from": "Nürnberg",
+                    "info": "Schubsen ist eine Nürnberger Truppe, die Post-Punk aus dem Ärmel schüttelt."
+                },
+                {
+                    "name": "Blond",
+                    "pic": "Blond.jpg",
+                    "pic_lang": " carrousel_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Freitag",
+                    "time": "23.15 h",
+                    "kat": "Indie, Pop",
+                    "from": "Deutschland",
+                    "info": "Blond reisen aus Chemnitz an. Die Band hat zwei Tonträger im Gepäck mit flotten Indie-Pop-Songs. Coole Outfits, tanzbare Musik und gute Laune erwartet die Besucher bei Blond auf dem Nürnberg.Pop Festival."
+                },
+                {
+                    "name": "Tristan & The Rosewood",
+                    "pic": "Tristan.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Samstag",
+                    "time": "19 h",
+                    "kat": "Beat",
+                    "from": "Deutschland",
+                    "info": "Tristan & The Rosewood ist eine Beat-Band, die Mitte der 80er Jahre gegründet wurde."
+                },
+                {
+                    "name": "Jugo Ürdens",
+                    "pic": "Jugo-Uerdens-new.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Samstag",
+                    "time": "21 h",
+                    "kat": "Rap",
+                    "from": "Österreich",
+                    "info": "Jugo Ürdens zählt zu Österreichs angesagtesten Rappern. Im Oktober letzten Jahres veröffentlichte der Wiener sein Debütalbum 'YUGO' und ging mit RIN auf dessen komplett ausverkaufte Tour."
+                },
+                {
+                    "name": "Ilgen-Nur",
+                    "pic": "Ilgen-Nur.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Samstag",
+                    "time": "23 h",
+                    "kat": "Indie, Rock",
+                    "from": "Deutschland",
+                    "info": " Von der Elbe an die Pegnitz. Ilgen-Nur macht sich auf den Weg von Hamburg nach Nürnberg und verstärkt das weibliche Line-Up bei Nürnberg.Pop."
+                },
+                {
+                    "name": "Like Lovers",
+                    "pic": "Like-Lovers.jpg",
+                    "pic_lang": " kidsimius_lang.jpg",
+                    "venue": "Neues Museum Auditorium",
+                    "day": "Samstag",
+                    "time": "01 h",
+                    "kat": "Pop",
+                    "from": "Nürnberg",
+                    "info": "Mit am Start ist auch Like Lovers. Die vierköpfige Formation aus Nürnberg serviert feinsten Progressive-Pop."
+                }
+            ]
+        },
+        {
+            "clubname": "Neues Museum Erdgeschoss",
+            "pic": "Neues-Museum.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Klarissenplatz",
+            "latitudej": 49.447844,
+            "longitudej": 11.080069,
+            "bands": [
+                {
+                    "name": "Schmarrnintelligenz, die",
+                    "pic": "Schmarrnintelligenz.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Neues Museum Erdgeschoss",
+                    "day": "Samstag",
+                    "time": "20.15 h",
+                    "kat": "Theater, Performance",
+                    "from": "Deutschland",
+                    "info": "Die Gruppe Schmarrnintelligenz, die ist ein seit 2011 bestehendes Theater- und Performance-Kollektiv, das seit 2012 in leicht wechselnder Besetzung als Performer*innen und Regisseur*innen Produktionen mit verschiedenen Themen als Hintergrund hervorgebracht hat."
+                },
+                {
+                   "name": "Schmarrnintelligenz, die",
+                    "pic": "Schmarrnintelligenz.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Neues Museum Erdgeschoss",
+                    "day": "Samstag",
+                    "time": "22.15 h",
+                    "kat": "Theater, Performance",
+                    "from": "Deutschland",
+                    "info": "Die Gruppe Schmarrnintelligenz, die ist ein seit 2011 bestehendes Theater- und Performance-Kollektiv, das seit 2012 in leicht wechselnder Besetzung als Performer*innen und Regisseur*innen Produktionen mit verschiedenen Themen als Hintergrund hervorgebracht hat."
+                },
+                {
+                   "name": "Schmarrnintelligenz, die",
+                    "pic": "Schmarrnintelligenz.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Neues Museum Erdgeschoss",
+                    "day": "Samstag",
+                    "time": "00.15 h",
+                    "kat": "Theater, Performance",
+                    "from": "Deutschland",
+                    "info": "Die Gruppe Schmarrnintelligenz, die ist ein seit 2011 bestehendes Theater- und Performance-Kollektiv, das seit 2012 in leicht wechselnder Besetzung als Performer*innen und Regisseur*innen Produktionen mit verschiedenen Themen als Hintergrund hervorgebracht hat."
+                }
+            ]
+        },
+        {
+            "clubname": "Rosi Schulz",
+            "pic": "Rosi-Schulz.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Luitpoldstraße 13",
+            "latitudej": 49.447979,
+            "longitudej": 11.078930,
+            "bands": [
+                {
+                    "name": "Fred Red",
+                    "pic": "Fred-Red.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Rosi Schulz",
+                    "day": "Samstag",
+                    "time": "19.30 h",
+                    "kat": "Hip-Hop",
+                    "from": "Berlin",
+                    "info": "Als Teil des Musik-Duos 'Krawanesia' verbindet der in Berlin lebende HipHop-Künstler trippy Instrumentals bis hin zum funky Disco Boogie."
+                },
+                {
+                    "name": "S. Fidelity",
+                    "pic": "S-Fidelity-new.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Rosi Schulz",
+                    "day": "Samstag",
+                    "time": "20.45 h",
+                    "kat": "Hip-Hop",
+                    "from": "Berlin/London",
+                    "info": "S. Fidelitys laid back Eklektizismus ist geprägt von einer tiefen Faszination für Popmusik-Kultur in ihrer Gesamtheit. Entsprechend ist seine HipHop-Version mit Versatzstücken aus Jazz, Ambient, Disco und Electronica gewürzt."
+                },
+                {
+                    "name": "Bluestaeb",
+                    "pic": "Bluestaeb.jpg",
+                    "pic_lang": " carrousel_lang.jpg",
+                    "venue": "Rosi Schulz",
+                    "day": "Samstag",
+                    "time": "22 h",
+                    "kat": "Hip-Hop",
+                    "from": "Berlin",
+                    "info": "Bluestaeb ist eine der Schlüsselfiguren einer neuen Generation aufstrebender HipHop-Beatmaker, die sich vom Genredenken emanzipiert haben und stattdessen Old-School-Ästhetik mit einer neuer und organischer Musik verbinden."
+                }
+            ]
+        },
+        {
+            "clubname": "Sharkey’s",
+            "pic": "Sharkeys.jpg",
+            "pic_lang": " neues_lang.jpg",
+            "clubinfo": "Klaragasse 11",
+            "latitudej": 49.448059,
+            "longitudej": 11.081617,
+            "bands": [
+                {
+                    "name": "He Told Me To",
+                    "pic": "He-Told-Me-To.jpg",
+                    "pic_lang": " yalta_lang.jpg",
+                    "venue": "Sharkey’s",
+                    "day": "Samstag",
+                    "time": "20 h ",
+                    "kat": "Songwriter",
+                    "from": "Coburg",
+                    "info": "He Told Me To aka Sandro Weich ist ein fleißig tourender Solokünstler aus Coburg, der eingängige Indie-Pop Hymnen schreibt. Catchig und kantig zugleich, weiß der selbsternannte Schmusesänger nicht nur durch musikalisches Feingefühl, sondern durch eine ebenso charismatische Performance zu überzeugen."
+                },
+                {
+                    "name": "He Told Me To",
+                    "pic": "He-Told-Me-To.jpg",
+                    "pic_lang": " springoffensive_lang.jpg",
+                    "venue": "Sharkey’s",
+                    "day": "Samstag",
+                    "time": "21.15 h",
+                    "kat": "Songwriter",
+                    "from": "Coburg",
+                    "info": "He Told Me To aka Sandro Weich ist ein fleißig tourender Solokünstler aus Coburg, der eingängige Indie-Pop Hymnen schreibt. Catchig und kantig zugleich, weiß der selbsternannte Schmusesänger nicht nur durch musikalisches Feingefühl, sondern durch eine ebenso charismatische Performance zu überzeugen."
+                }
+            ]
+        },
+        {
+            "clubname": "Wacht am Rhein",
+            "pic": "Wacht.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Klaragasse 22",
+            "latitudej": 49.448807,
+            "longitudej": 11.077475,
+            "bands": [
+                {
+                    "name": "Himpfelshofer Herzensbrecher",
+                    "pic": "Himpfelshofer.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Wacht am Rhein",
+                    "day": "Samstag",
+                    "time": "23.15 h",
+                    "kat": "Schlager",
+                    "from": "Nürnberg",
+                    "info": "Die ehrlichste und beste Schlagerbend der Welt."
+                }
+            ]
+        },
+        {
+            "clubname": "Wurstdurst",
+            "pic": "Wurstdurst.jpg",
+            "pic_lang": " zwinger_lang.jpg",
+            "clubinfo": "Luitpoldstraße 13",
+            "latitudej": 49.448807,
+            "longitudej": 11.077475,
+            "bands": [
+                {
+                    "name": "Muddy What?",
+                    "pic": "Muddy-What.jpg",
+                    "pic_lang": " ekatbork_lang.jpg",
+                    "venue": "Wurstdurst",
+                    "day": "Samstag",
+                    "time": "18 h",
+                    "kat": "Blues",
+                    "from": "Deutschland",
+                    "info": "Die Band liebt die Wurzeln des Blues, macht ihn ein bisschen jünger und schenkt ihm funky Akzente. Fabian Spang (git, voc), Ina Spang (git, mandolin) und Michi Lang (dr) arrangieren und interpretieren Songs von bekannten Größen wie etwa Son House, Muddy Waters, Jimi Hendrix und Bob Dylan ganz eigen und raffiniert."
+                }
+            ]
+        }
+
+    ]
+}
